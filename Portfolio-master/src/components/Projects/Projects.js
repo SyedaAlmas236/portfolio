@@ -2,16 +2,12 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
 import ticketeasy from "../../Assets/Projects/ticketeasy.png";
-import emotion from "../../Assets/Projects/emotion.png";
 import chatbot from "../../Assets/Projects/chatbot.png";
-import chatify from "../../Assets/Projects/chatify.png";
 import empTracker from "../../Assets/Projects/employee performance tracker.png";
 import fireDetection from "../../Assets/Projects/fire detection.png";
 import homelyhub from "../../Assets/Projects/homelyhub.png";
 import smartPlanner from "../../Assets/Projects/smart day planner.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
 
 function Projects() {
   return (
